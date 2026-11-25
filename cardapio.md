@@ -1,4 +1,4 @@
-# Cardápio da Lanchonete
+# Cardápio Especial de Promoção
 - X-Burger Tradicional
 - Batata Frita Crocante
 - Suco Natural de Laranja
