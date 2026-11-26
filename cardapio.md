@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Cardápio Exclusivo Delivery
-=======
-# Cardápio Especial de Promoção
->>>>>>> 9fa0d1d6c8821cd6577a8a8f513a0bfdceb1c139
+# Cardápio Especial - Promoção e Delivery
 - X-Burger Tradicional
 - Batata Frita Crocante
 - Suco Natural de Laranja
